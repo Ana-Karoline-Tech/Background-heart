@@ -26,3 +26,17 @@ h1 {color: rgb(26, 17, 198); text-align: center; margin-top: 20%; font-size: 50p
     cursor: pointer;
     z-index: 10;
 }
+
+.dark-pink-button {
+    position: fixed;
+    top: 20px;
+    left: 80px;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #E91E63;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 10;
+}
