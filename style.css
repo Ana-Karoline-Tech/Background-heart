@@ -3,3 +3,17 @@ html {height:100%;}body {margin:0;}.bg {animation:slideX 3s ease-in-out infinite
 h2 {color: white; text-align: center; margin-top: 20%; font-size: 50px;}
 
 h1 {color: rgb(26, 17, 198); text-align: center; margin-top: 20%; font-size: 50px;}
+
+.heart-button {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #ff4081;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 10;
+}
